@@ -12,7 +12,7 @@ const About = () => {
             specializations: ['Generative AI', 'LLM-fine tuning', 'Agentic AI', 'System Design'],
             email: 'rushisutar15@gmail.com',
             github: 'https://github.com/rushi15003',
-            image: 'Rushikesh_Sutar_Photo.jpg', // Can be replaced with actual image path later
+            image: '/Rushikesh_Sutar_Photo.jpg',
         },
         {
             name: 'Pranali Patil',
@@ -22,7 +22,7 @@ const About = () => {
             specializations: ['NLP', 'Machine Learning', 'Generative AI', 'AI Applications', 'RAG'],
             email: 'pranalippatil03@gmail.com',
             github: 'https://github.com/pranali0315',
-            image: 'pranali_photo_crop.jpeg', // Can be replaced with actual image path later
+            image: '/pranali_photo_crop.jpeg',
         },
     ];
 
