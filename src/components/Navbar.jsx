@@ -21,11 +21,11 @@ const Navbar = () => {
     const resumes = [
         {
             name: 'Rushikesh Sutar',
-            file: '/resumes/Rushikesh_CV.pdf',
+            file: 'https://drive.google.com/file/d/1cv1fCU0pC-d_qFkG_uy-K5OXGcowxrcB/view?usp=sharing',
         },
         {
             name: 'Pranali Patil',
-            file: '/resumes/Pranali_CV.pdf',
+            file: 'https://drive.google.com/file/d/1hSMmMaOgeN_foI73-M-nwvuUcNl-9s7U/view?usp=sharing',
         },
     ];
 
